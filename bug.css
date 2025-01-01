@@ -1,0 +1,1 @@
+The following CSS code snippet demonstrates an uncommon error related to specificity and inheritance.  The intention is to style all list items within an unordered list, and then override the style for list items within a specific class. However, due to specificity rules, the style for the `.special` class does not take effect.
